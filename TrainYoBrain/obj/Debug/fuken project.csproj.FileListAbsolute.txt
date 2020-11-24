@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\fuken project.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.logic_window.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menus.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\fuken project.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\TrainYoBrain\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\TrainYoBrain\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\TrainYoBrain\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
